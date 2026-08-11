@@ -1,16 +1,6 @@
 <div align="center">
 
-  <!-- VLNA -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=230&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=40&fontAlignY=30&font=Montserrat&desc=AI%20Specialist%20•%20Web%20Developer%20•%20Homelab%20Architect&descFontSize=15&descAlignY=48&fontColor=ffffff&descColor=f0f9ff&animation=fadeIn&v=14" width="100%" style="display: block; border-radius: 12px;" />
-
-  <br><br>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/🤖_AI_Specialist-8A2BE2?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/💻_Web_Developer-0070F3?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/🖥️_Homelab_Architect-00C7B7?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/🌐_Self--Hosting-FF7A00?style=for-the-badge&logoColor=white" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=230&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=40&fontAlignY=30&font=Montserrat&desc=🤖%20AI%20Specialist%20•%20💻%20Web%20Developer%20•%20🖥️%20Homelab%20Architect%20•%20🌐%20Self-Hosting&descFontSize=15&descAlignY=48&fontColor=ffffff&descColor=f0f9ff&animation=fadeIn&v=14" width="100%" style="display: block; border-radius: 12px;" />
 
 </div>
 
