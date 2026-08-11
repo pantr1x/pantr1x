@@ -5,7 +5,9 @@
 </div>
 
 <p align="center">
-  I'm a 16-year-old electronics student at SOŠ Liptovský Hrádok, passionate about web development, 3D printing, and exploring the potential of AI. When I'm not building websites or managing my own hosting infrastructure, you can usually find me playing CS2.
+  Hello and welcome to my GitHub profile! My name is pantr1x, and I am a 16-year-old student currently diving deep into the world of electronics at SOŠ Liptovský Hrádok. Ever since I was young, I've had a natural curiosity for how technology works, which naturally evolved into a deep passion for both hardware and software development.<br><br>
+  On the software side, I love building modern, responsive web applications and experimenting with creative digital solutions. I am also fascinated by the rapidly expanding world of artificial intelligence—constantly exploring what large language models and smart automation tools can achieve to make workflows more efficient and exciting.<br><br>
+  Beyond coding and circuits, I enjoy bringing ideas to life physically through 3D printing, turning digital designs into tangible objects. In my spare time, you will often find me managing and optimizing my own self-hosted infrastructure and home server environment. And when it’s time to take a break and unwind, I love teaming up with friends for a few competitive matches of Counter-Strike 2. Thanks for stopping by to check out my projects and work!
 </p>
 
 ---
