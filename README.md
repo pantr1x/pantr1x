@@ -4,7 +4,7 @@
 
   <br><br>
 
-  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1200&q=80" width="100%" style="border-radius: 8px;" alt="Server Rack" />
+  <img src="https://raw.githubusercontent.com/technoficial75-beep/technoficial75-beep/main/360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="100%" style="border-radius: 8px;" alt="Server Rack" />
 
   <br><br>
 
