@@ -4,6 +4,12 @@
 
 </div>
 
+<p align="center">
+  I'm a 16-year-old electronics student at SOŠ Liptovský Hrádok, passionate about web development, 3D printing, and exploring the potential of AI. When I'm not building websites or managing my own hosting infrastructure, you can usually find me playing CS2.
+</p>
+
+---
+
 ### 🧠 About Me
 
 <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%2338BDF8" width="18" height="18" /> **AI & Automation:** LLM integration, prompt engineering, AI-powered workflows, and automation.  
