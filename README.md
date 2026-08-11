@@ -4,7 +4,7 @@
 
   <br><br>
 
-  ![Server Rack](360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXlXmoRRU.jpg)
+  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1200&q=80" width="100%" style="border-radius: 8px;" alt="Server Rack" />
 
   <br><br>
 
@@ -54,20 +54,6 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
-
----
-
-### Activity Stats
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pantr1x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pantr1x&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pantr1x&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
