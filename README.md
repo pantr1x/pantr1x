@@ -1,7 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I am pantr1x 👋</h1>
-  <p><b>AI Specialist • Web Developer • Homelab Architect</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=230&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=40&fontAlignY=30&font=Montserrat&desc=AI%20Specialist%20•%20Web%20Developer%20•%20Homelab%20Architect&descFontSize=13&descAlignY=48&fontColor=ffffff&descColor=f0f9ff&animation=fadeIn&v=14" width="100%" style="display: block; border-radius: 12px;" />
 
 </div>
 
@@ -33,8 +32,10 @@ I am a 16-year-old electronics student at SOŠ Liptovský Hrádok who is deeply 
 
 ### ⚡ Tech Stack
 
+<div align="center">
+
 #### 💻 Development
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,8 +44,8 @@ I am a 16-year-old electronics student at SOŠ Liptovský Hrádok who is deeply 
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-#### 🖥️ Infrastructure
-<p align="left">
+#### 🖥️ Infrastructure & DevOps
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -52,6 +53,8 @@ I am a 16-year-old electronics student at SOŠ Liptovský Hrádok who is deeply 
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
+
+</div>
 
 ---
 
