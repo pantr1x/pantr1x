@@ -1,32 +1,6 @@
 <div align="center">
 
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="100%" height="auto">
-    <defs>
-      <linearGradient id="orangeWave" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#FF4500" />
-        <stop offset="50%" stop-color="#FF7A00" />
-        <stop offset="100%" stop-color="#FFA500" />
-      </linearGradient>
-
-      <linearGradient id="serverFade" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" stop-color="#000" stop-opacity="0.85" />
-        <stop offset="45%" stop-color="#000" stop-opacity="0.4" />
-        <stop offset="80%" stop-color="#0d1117" stop-opacity="0.85" />
-        <stop offset="100%" stop-color="#0d1117" stop-opacity="1" />
-      </linearGradient>
-    </defs>
-
-    <image href="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1400&q=80" width="1000" height="320" preserveAspectRatio="xMidYMid slice" />
-
-    <rect width="1000" height="320" fill="url(#serverFade)" />
-
-    <path fill="url(#orangeWave)" fill-opacity="0.9" d="M0,0 L1000,0 L1000,50 Q750,110 500,45 Q250,-20 0,60 Z" />
-
-    <text x="500" y="165" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="44" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">Hi, I am pantr1x</text>
-    <text x="500" y="200" font-family="'Fira Code', monospace" font-size="16" font-weight="500" fill="#FFA500" text-anchor="middle" letter-spacing="3">SERVER INFRASTRUCTURE &bull; AI &bull; WEB DEVELOPMENT</text>
-  </svg>
-
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=220&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
@@ -42,6 +16,8 @@
   </p>
 
 </div>
+
+---
 
 ### About Me
 
