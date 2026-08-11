@@ -1,21 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=130&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=42&fontAlignY=40&animation=fadeIn" width="100%"/><img src="360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="100%" alt="Server Rack" />
+  <img src="360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="100%" alt="Server Rack" />
 
-<br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=150&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=42&fontAlignY=50&animation=fadeIn" width="100%" style="margin-top: -10px;" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
-</a>
+  <br>
 
-<br><br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖_AI_Specialist-8A2BE2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/💻_Web_Developer-0070F3?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/🖥️_Homelab_Architect-00C7B7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌐_Self--Hosting-FF7A00?style=for-the-badge&logoColor=white" />
-</p>
+  <br><br>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/🤖_AI_Specialist-8A2BE2?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻_Web_Developer-0070F3?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🖥️_Homelab_Architect-00C7B7?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Self--Hosting-FF7A00?style=for-the-badge&logoColor=white" />
+  </p>
 
 </div>
 
