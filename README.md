@@ -1,23 +1,18 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=pantr1x&fontSize=46&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,24,32,45&height=220&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=42&animation=fadeIn&fontAlignY=38" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br><br>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/AI_Specialist-7928CA?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Web_Developer-0070F3?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Homelab_Architect-10B981?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Self--Hosting-F5A623?style=for-the-badge&logoColor=white" />
-  </p>
-
-  <p align="center">
-    <a href="mailto:technoficial75@gmail.com"><img src="https://img.shields.io/badge/Email-technoficial75%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/Discord-pantr1x-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/🤖_AI_Specialist-8A2BE2?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻_Web_Developer-0070F3?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🖥️_Homelab_Architect-00C7B7?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Self--Hosting-FF5722?style=for-the-badge&logoColor=white" />
   </p>
 
 </div>
@@ -26,9 +21,9 @@
 
 ### About Me
 
-<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%2336BCF7" width="18" height="18" /> **AI Specialist:** LLM integration, prompt engineering, AI workflow automation, and custom model deployments.  
-<img src="https://api.iconify.design/lucide:terminal.svg?color=%2336BCF7" width="18" height="18" /> **Web Development:** Designing and building modern, fast, and responsive web applications.  
-<img src="https://api.iconify.design/lucide:server.svg?color=%2336BCF7" width="18" height="18" /> **Homelab & Hosting:** Managing custom bare-metal server infrastructure, self-hosted services, and cloud environments.  
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%2300D2FF" width="18" height="18" /> **AI Specialist:** LLM integration, prompt engineering, AI workflow automation, and custom model deployments.  
+<img src="https://api.iconify.design/lucide:terminal.svg?color=%2300D2FF" width="18" height="18" /> **Web Development:** Designing and building modern, fast, and responsive web applications.  
+<img src="https://api.iconify.design/lucide:server.svg?color=%2300D2FF" width="18" height="18" /> **Homelab & Hosting:** Managing custom bare-metal server infrastructure, self-hosted services, and cloud environments.  
 
 ---
 
@@ -67,3 +62,17 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pantr1x&theme=tokyonight&hide_border=true" />
 </div>
+
+---
+
+### Connect with me
+
+<p align="center">
+  <a href="https://discord.com/users/pantr1x" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-pantr1x-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:technoficial75@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-technoficial75%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
