@@ -14,12 +14,12 @@ I am a 16-year-old electronics student at SOŠ Liptovský Hrádok who is deeply 
 
 ---
 
-### 📊 Skills & Proficiency
+### Skills & Proficiency
 
 <table width="100%" cellspacing="0" cellpadding="0" style="width: 100%; table-layout: fixed; border: none;">
   <tr>
     <td width="25%" valign="top" align="left">
-      <h4>🌐 Web Dev (95%)</h4>
+      <h4>Web Dev (95%)</h4>
       <p>
         <b>HTML 5</b> (100%)<br>
         <code>██████████████████████████</code><br>
@@ -34,7 +34,7 @@ I am a 16-year-old electronics student at SOŠ Liptovský Hrádok who is deeply 
       </p>
     </td>
     <td width="25%" valign="top" align="left">
-      <h4>🤖 AI & Auto (73%)</h4>
+      <h4>AI & Auto (73%)</h4>
       <p>
         <b>Python</b> (80%)<br>
         <code>█████████████████████░░░░░</code><br>
@@ -47,7 +47,7 @@ I am a 16-year-old electronics student at SOŠ Liptovský Hrádok who is deeply 
       </p>
     </td>
     <td width="25%" valign="top" align="left">
-      <h4>🖨️ 3D Tlač (100%)</h4>
+      <h4>3D Tlač (100%)</h4>
       <p>
         <b>Modelovanie</b> (100%)<br>
         <code>██████████████████████████</code><br>
@@ -58,7 +58,7 @@ I am a 16-year-old electronics student at SOŠ Liptovský Hrádok who is deeply 
       </p>
     </td>
     <td width="25%" valign="top" align="left">
-      <h4>🖥️ Hosting (27%)</h4>
+      <h4>Hosting (27%)</h4>
       <p>
         <b>Docker</b> (35%)<br>
         <code>█████████░░░░░░░░░░░░░░░░░</code><br>
@@ -73,21 +73,23 @@ I am a 16-year-old electronics student at SOŠ Liptovský Hrádok who is deeply 
 
 ---
 
-### ⚡ Tech Stack
+### Tech Stack
 
 <div align="center">
 
-#### 💻 Development
+#### Development
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
-#### 🖥️ Infrastructure & DevOps
+#### Infrastructure & DevOps
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -101,7 +103,7 @@ I am a 16-year-old electronics student at SOŠ Liptovský Hrádok who is deeply 
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pantr1x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -115,7 +117,7 @@ I am a 16-year-old electronics student at SOŠ Liptovský Hrádok who is deeply 
 
 ---
 
-### 🌐 Connect
+### Connect
 
 <p align="center">
   <a href="https://discord.com/users/pantr1x" target="_blank" rel="noopener noreferrer">
