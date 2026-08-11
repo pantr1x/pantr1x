@@ -4,9 +4,14 @@
 
 </div>
 
+I am a 16-year-old electronics student at SOŠ Liptovský Hrádok.
+
 ### 📌 In Brief
 
-I am a 16-year-old electronics student at SOŠ Liptovský Hrádok with a deep passion for modern technology. My main focus areas include web development, exploring the capabilities of artificial intelligence, and managing my own self-hosted server infrastructure. Aside from coding and hardware, I love bringing creative ideas to life through 3D printing and playing competitive matches of Counter-Strike 2.
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%2338BDF8" width="18" height="18" /> **AI & Automation:** LLM integration, prompt engineering, AI-powered workflows, and automation.  
+<img src="https://api.iconify.design/lucide:terminal.svg?color=%2338BDF8" width="18" height="18" /> **Web Development:** Building modern, fast, responsive, and interactive web applications.  
+<img src="https://api.iconify.design/lucide:server.svg?color=%2338BDF8" width="18" height="18" /> **Infrastructure:** Running self-hosted services, bare-metal infrastructure, servers, and custom environments.  
+<img src="https://api.iconify.design/lucide:box.svg?color=%2338BDF8" width="18" height="18" /> **Hobbies & Interests:** Bringing creative ideas to life through 3D printing and playing competitive CS2.  
 
 ---
 
