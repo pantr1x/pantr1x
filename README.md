@@ -1,6 +1,14 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=230&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=40&fontAlignY=30&font=Montserrat&desc=🤖%20AI%20Specialist%20•%20💻%20Web%20Developer%20•%20🖥️%20Homelab%20Architect&descFontSize=13&descAlignY=48&fontColor=ffffff&descColor=f0f9ff&animation=fadeIn&v=14" width="100%" style="display: block; border-radius: 12px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=200&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=38&fontAlignY=50&font=Montserrat&fontColor=ffffff&animation=fadeIn&v=14" width="100%" style="display: block; border-radius: 12px;" />
+
+  <p align="center">
+    <code>
+      <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%2338BDF8" width="14" height="14" /> AI Specialist &nbsp;•&nbsp;
+      <img src="https://api.iconify.design/lucide:terminal.svg?color=%2338BDF8" width="14" height="14" /> Web Developer &nbsp;•&nbsp;
+      <img src="https://api.iconify.design/lucide:server.svg?color=%2338BDF8" width="14" height="14" /> Homelab Architect
+    </code>
+  </p>
 
 </div>
 
