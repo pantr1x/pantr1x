@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f2937,111827,030712&height=220&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=38&fontAlignY=35&desc=AI%20Specialist%20•%20Web%20Developer%20•%20Homelab%20Architect&descFontSize=16&descAlignY=62&fontColor=ffffff&descColor=FF7A00&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0284c7,0369a1,0b1329&height=230&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=40&fontAlignY=33&desc=AI%20Specialist%20•%20Web%20Developer%20•%20Homelab%20Architect&descFontSize=15&descAlignY=65&fontColor=ffffff&descColor=93c5fd&animation=fadeIn" width="100%"/>
 
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -23,9 +23,9 @@
 
 ### About Me
 
-<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23FF7A00" width="18" height="18" /> **AI Specialist:** LLM integration, prompt engineering, AI workflow automation, and custom model deployments.  
-<img src="https://api.iconify.design/lucide:terminal.svg?color=%23FF7A00" width="18" height="18" /> **Web Development:** Designing and building modern, fast, and responsive web applications.  
-<img src="https://api.iconify.design/lucide:server.svg?color=%23FF7A00" width="18" height="18" /> **Homelab & Hosting:** Managing custom bare-metal server infrastructure, self-hosted services, and cloud environments.  
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%2338BDF8" width="18" height="18" /> **AI Specialist:** LLM integration, prompt engineering, AI workflow automation, and custom model deployments.  
+<img src="https://api.iconify.design/lucide:terminal.svg?color=%2338BDF8" width="18" height="18" /> **Web Development:** Designing and building modern, fast, and responsive web applications.  
+<img src="https://api.iconify.design/lucide:server.svg?color=%2338BDF8" width="18" height="18" /> **Homelab & Hosting:** Managing custom bare-metal server infrastructure, self-hosted services, and cloud environments.  
 
 ---
 
