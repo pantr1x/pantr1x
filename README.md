@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="./360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="100%" style="border-radius: 12px; display: block;" alt="Server Infrastructure" />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=230&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=40&fontAlignY=30&font=Montserrat&desc=AI%20Specialist%20•%20Web%20Developer%20•%20Homelab%20Architect&descFontSize=15&descAlignY=48&fontColor=ffffff&descColor=f0f9ff&animation=fadeIn&v=14" width="100%" style="margin-top: -260px; display: block; border-radius: 12px;" />
+  <!-- VLNA – takmer ako predtým, len jemne zvýraznený text -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=230&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=46&fontAlignY=30&font=Montserrat&fontColor=ffffff&stroke=0f172a&strokeWidth=2&desc=AI%20Specialist%20•%20Web%20Developer%20•%20Homelab%20Architect&descFontSize=15&descAlignY=48&descColor=f0f9ff&animation=fadeIn&v=14" width="100%" style="display: block; border-radius: 12px;" />
 
   <br>
 
+  <!-- Typing SVG – ako si mal, nemením text -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
   </a>
