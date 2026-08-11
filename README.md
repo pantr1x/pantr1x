@@ -4,7 +4,16 @@
 
 </div>
 
-I am a 16-year-old electronics student at SOŠ Liptovský Hrádok deeply immersed in the world of modern technology, hardware, and software. My core focus spans across multiple technical domains: I am heavily invested in web development, building fast, responsive, and interactive applications. At the same time, I am fascinated by artificial intelligence, constantly exploring LLM integrations, prompt engineering, and AI-powered workflows to automate and streamline complex tasks. Beyond the digital realm, I love managing my own self-hosted server infrastructure, working with Docker, Linux, and custom environments, as well as bringing creative physical designs to life through 3D printing. Driven by curiosity and a constant desire to learn better ways to build things, I approach every new technology as an exciting challenge. When I am away from my development environment and servers, you can usually find me unwinding and playing competitive matches of Counter-Strike 2.
+### 🧠 About Me
+
+16-year-old electronics student at **SOŠ Liptovský Hrádok** • Web Developer & AI Enthusiast • Homelab & Self-Hosting Architect • 3D Printing & CS2 Player.
+
+<br>
+
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%2338BDF8" width="18" height="18" /> **AI & Automation:** LLM integration, prompt engineering, AI-powered workflows, and automation.  
+<img src="https://api.iconify.design/lucide:terminal.svg?color=%2338BDF8" width="18" height="18" /> **Web Development:** Building modern, fast, responsive, and interactive web applications.  
+<img src="https://api.iconify.design/lucide:server.svg?color=%2338BDF8" width="18" height="18" /> **Infrastructure:** Running self-hosted services, bare-metal infrastructure, servers, and custom environments.  
+<img src="https://api.iconify.design/lucide:book-open.svg?color=%2338BDF8" width="18" height="18" /> **Always Learning:** Exploring new technologies, AI tools, infrastructure, and better ways to build things.  
 
 ---
 
