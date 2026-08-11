@@ -1,9 +1,35 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,24,32,45&height=220&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=42&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="100%" height="auto">
+    <defs>
+      <linearGradient id="orangeWave" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#FF4500" />
+        <stop offset="50%" stop-color="#FF7A00" />
+        <stop offset="100%" stop-color="#FFA500" />
+      </linearGradient>
+
+      <linearGradient id="serverFade" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#000" stop-opacity="0.85" />
+        <stop offset="45%" stop-color="#000" stop-opacity="0.4" />
+        <stop offset="80%" stop-color="#0d1117" stop-opacity="0.85" />
+        <stop offset="100%" stop-color="#0d1117" stop-opacity="1" />
+      </linearGradient>
+    </defs>
+
+    <image href="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1400&q=80" width="1000" height="320" preserveAspectRatio="xMidYMid slice" />
+
+    <rect width="1000" height="320" fill="url(#serverFade)" />
+
+    <path fill="url(#orangeWave)" fill-opacity="0.9" d="M0,0 L1000,0 L1000,50 Q750,110 500,45 Q250,-20 0,60 Z" />
+
+    <text x="500" y="165" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="44" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">Hi, I am pantr1x</text>
+    <text x="500" y="200" font-family="'Fira Code', monospace" font-size="16" font-weight="500" fill="#FFA500" text-anchor="middle" letter-spacing="3">SERVER INFRASTRUCTURE &bull; AI &bull; WEB DEVELOPMENT</text>
+  </svg>
+
+  <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -12,18 +38,16 @@
     <img src="https://img.shields.io/badge/🤖_AI_Specialist-8A2BE2?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/💻_Web_Developer-0070F3?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/🖥️_Homelab_Architect-00C7B7?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/🌐_Self--Hosting-FF5722?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Self--Hosting-FF7A00?style=for-the-badge&logoColor=white" />
   </p>
 
 </div>
 
----
-
 ### About Me
 
-<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%2300D2FF" width="18" height="18" /> **AI Specialist:** LLM integration, prompt engineering, AI workflow automation, and custom model deployments.  
-<img src="https://api.iconify.design/lucide:terminal.svg?color=%2300D2FF" width="18" height="18" /> **Web Development:** Designing and building modern, fast, and responsive web applications.  
-<img src="https://api.iconify.design/lucide:server.svg?color=%2300D2FF" width="18" height="18" /> **Homelab & Hosting:** Managing custom bare-metal server infrastructure, self-hosted services, and cloud environments.  
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23FF7A00" width="18" height="18" /> **AI Specialist:** LLM integration, prompt engineering, AI workflow automation, and custom model deployments.  
+<img src="https://api.iconify.design/lucide:terminal.svg?color=%23FF7A00" width="18" height="18" /> **Web Development:** Designing and building modern, fast, and responsive web applications.  
+<img src="https://api.iconify.design/lucide:server.svg?color=%23FF7A00" width="18" height="18" /> **Homelab & Hosting:** Managing custom bare-metal server infrastructure, self-hosted services, and cloud environments.  
 
 ---
 
@@ -68,11 +92,11 @@
 ### Connect with me
 
 <p align="center">
-  <a href="https://discord.com/users/pantr1x" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-pantr1x-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/pantr1x" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:technoficial75@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-technoficial75%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:technoficial75@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
