@@ -1,10 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=230&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=40&fontAlignY=30&font=Montserrat&desc=AI%20Specialist%20•%20Web%20Developer%20•%20Homelab%20Architect&descFontSize=15&descAlignY=48&fontColor=ffffff&descColor=f0f9ff&animation=fadeIn&v=12" width="100%"/>
+  <img src="./360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="100%" style="border-radius: 12px; display: block;" alt="Server Infrastructure" />
 
-  <div style="margin-top: -120px; position: relative;">
-    <img src="./360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="85%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" alt="Server Infrastructure" />
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=230&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=40&fontAlignY=30&font=Montserrat&desc=AI%20Specialist%20•%20Web%20Developer%20•%20Homelab%20Architect&descFontSize=15&descAlignY=48&fontColor=ffffff&descColor=f0f9ff&animation=fadeIn&v=13" width="100%" style="margin-top: -180px;" />
 
   <br>
 
