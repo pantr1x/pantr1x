@@ -4,7 +4,7 @@
 
   <br><br>
 
-  <img src="https://raw.githubusercontent.com/technoficial75-beep/technoficial75-beep/main/360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="100%" style="border-radius: 8px;" alt="Server Rack" />
+  <img src="360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="100%" alt="Server Banner" />
 
   <br><br>
 
