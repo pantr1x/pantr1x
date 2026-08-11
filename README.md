@@ -2,7 +2,7 @@
 
   <img src="./360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="100%" style="border-radius: 12px; display: block;" alt="Server Infrastructure" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=230&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=40&fontAlignY=30&font=Montserrat&desc=AI%20Specialist%20•%20Web%20Developer%20•%20Homelab%20Architect&descFontSize=15&descAlignY=48&fontColor=ffffff&descColor=f0f9ff&animation=fadeIn&v=13" width="100%" style="margin-top: -180px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=230&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=40&fontAlignY=30&font=Montserrat&desc=AI%20Specialist%20•%20Web%20Developer%20•%20Homelab%20Architect&descFontSize=15&descAlignY=48&fontColor=ffffff&descColor=f0f9ff&animation=fadeIn&v=14" width="100%" style="margin-top: -200px;" />
 
   <br>
 
