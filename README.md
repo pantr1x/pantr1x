@@ -1,12 +1,28 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=280&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" />
+  <svg width="100%" viewBox="0 0 1000 350" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="serverFade" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#000000" stop-opacity="0.6" />
+        <stop offset="60%" stop-color="#000000" stop-opacity="0.3" />
+        <stop offset="100%" stop-color="#0d1117" stop-opacity="1" />
+      </linearGradient>
 
-  <br><br>
+      <linearGradient id="orangeWave" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#FF7A00" />
+        <stop offset="100%" stop-color="#FF5100" />
+      </linearGradient>
+    </defs>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
-  </a>
+    <image href="360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="1000" height="320" preserveAspectRatio="xMidYMid slice" />
+
+    <rect width="1000" height="320" fill="url(#serverFade)" />
+
+    <path fill="url(#orangeWave)" fill-opacity="0.9" d="M0,230 C300,270 700,190 1000,230 L1000,320 L0,320 Z" />
+
+    <text x="500" y="165" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="44" font-weight="800" fill="#FFFFFF" text-anchor="middle">Hi, I am pantr1x</text>
+    <text x="500" y="205" font-family="'Fira Code', monospace" font-size="16" font-weight="500" fill="#FFD1A9" text-anchor="middle">AI Specialist &amp; Homelab Enthusiast</text>
+  </svg>
 
   <br><br>
 
@@ -56,13 +72,13 @@
 ### Activity Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pantr1x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pantr1x&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=technoficial75-beep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoficial75-beep&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pantr1x&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technoficial75-beep&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
