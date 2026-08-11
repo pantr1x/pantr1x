@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="./360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXlXmoRRU.jpg" width="100%" style="border-radius: 10px;" alt="Server Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=200&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%"/>
+
+  <img src="https://raw.githubusercontent.com/pantr1x/pantr1x/main/360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXlXmoRRU.jpg" width="100%" style="border-radius: 8px;" alt="Server Rack" />
 
   <br><br>
-
-  <h1>Hi, I am pantr1x</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
