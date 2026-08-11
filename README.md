@@ -16,17 +16,47 @@ I am a 16-year-old electronics student at SOŠ Liptovský Hrádok who is deeply 
 
 ### 📊 Skills & Proficiency
 
-**Web Development** (95%)  
-`███████████████████░` 95%
-
-**AI & Automation** (73%)  
-`█████████████░░░░░░░` 73%
-
-**3D Tlač** (100%)  
-`████████████████████` 100%
-
-**Hosting & Infrastructure** (27%)  
-`██████░░░░░░░░░░░░░░` 27%
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Web Development (95%)</h3>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 100%<br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> 95%<br>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> 90%<br>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> 88%<br>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> 92%
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & Automation (73%)</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 80%<br>
+        <img src="https://img.shields.io/badge/LLMs-FF6F61?style=flat-square&logo=openai&logoColor=white" /> 75%<br>
+        <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square&logo=robot&logoColor=white" /> 85%<br>
+        <img src="https://img.shields.io/badge/Workflows-0052CC?style=flat-square&logo=n8n&logoColor=white" /> 73%
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖨️ 3D Tlač (100%)</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Modelovanie-FF6600?style=flat-square&logo=blender&logoColor=white" /> 100%<br>
+        <img src="https://img.shields.io/badge/Slicing-2C3E50?style=flat-square&logo=prusaslicer&logoColor=white" /> 100%<br>
+        <img src="https://img.shields.io/badge/Hardware-4CAF50?style=flat-square&logo=arduino&logoColor=white" /> 100%
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ Hosting & Infrastructure (27%)</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> 35%<br>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> 30%<br>
+        <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" /> 27%
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
