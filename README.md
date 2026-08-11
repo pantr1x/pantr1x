@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="100%" alt="Server Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=180&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" style="margin-bottom: -45px; position: relative; z-index: 2;" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=120&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=38&fontAlignY=50&animation=fadeIn" width="100%" style="margin-top: -10px;" />
+  <img src="360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="100%" style="position: relative; z-index: 1;" alt="Server Rack" />
 
-  <br>
+  <br><br>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
