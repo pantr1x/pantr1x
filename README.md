@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=280&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=42&fontAlignY=35&animation=fadeIn&desc=AI%20Specialist%20&%20Homelab%20Enthusiast&descFontSize=16&descAlignY=55" width="100%" />
+  <img src="360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="100%" style="border-radius: 8px;" alt="Server Rack" />
 
   <br><br>
 
