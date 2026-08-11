@@ -1,21 +1,16 @@
 <div align="center">
 
-  <!-- Vlna header – len pantr1x, bez desc -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=230&section=header&text=pantr1x&fontSize=48&fontAlignY=30&font=Montserrat&fontColor=ffffff&animation=fadeIn&v=14"
-    width="100%"
-    style="display:block; border-radius:12px;"
-  />
+  <img src="./360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="100%" style="border-radius: 12px; display: block;" alt="Server Infrastructure" />
 
-  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=230&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=40&fontAlignY=30&font=Montserrat&desc=AI%20Specialist%20•%20Web%20Developer%20•%20Homelab%20Architect&descFontSize=15&descAlignY=48&fontColor=ffffff&descColor=f0f9ff&animation=fadeIn&v=14" width="100%" style="margin-top: -260px; display: block; border-radius: 12px;" />
 
-  <!-- Animovaný nápis pantr1x s cool fontom -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=44&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=pantr1x"
-    alt="Typing SVG"
-  />
+  <br>
 
-  <br /><br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <br><br>
 
   <p align="center">
     <img src="https://img.shields.io/badge/🤖_AI_Specialist-8A2BE2?style=for-the-badge&logoColor=white" />
