@@ -1,10 +1,8 @@
 <div align="center">
 
-  <img src="360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="100%" alt="Server Rack" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=280&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=150&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=42&fontAlignY=50&animation=fadeIn" width="100%" style="margin-top: -10px;" />
-
-  <br>
+  <br><br>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
@@ -58,13 +56,13 @@
 ### Activity Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=technoficial75-beep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoficial75-beep&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pantr1x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pantr1x&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technoficial75-beep&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pantr1x&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
