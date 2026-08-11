@@ -6,7 +6,6 @@
 
 I am a 16-year-old electronics student at SOŠ Liptovský Hrádok who is deeply passionate about modern technology, building web applications, and exploring artificial intelligence. When I'm not studying circuits or coding, I love bringing creative ideas to life through 3D printing, managing my own self-hosted infrastructure, and playing competitive matches of Counter-Strike 2.
 
----
 
 **- AI & Automation:** LLM integration, prompt engineering, AI-powered workflows, and automation.  
 **- Web Development:** Building modern, fast, responsive, and interactive web applications.  
