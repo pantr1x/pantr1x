@@ -2,7 +2,9 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=200&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-  <img src="https://raw.githubusercontent.com/pantr1x/pantr1x/main/360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXlXmoRRU.jpg" width="100%" style="border-radius: 8px;" alt="Server Rack" />
+  <br><br>
+
+  ![Server Rack](360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXlXmoRRU.jpg)
 
   <br><br>
 
