@@ -1,16 +1,33 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=230&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=40&fontAlignY=30&font=Montserrat&desc=AI%20Specialist%20•%20Web%20Developer%20•%20Homelab%20Architect&descFontSize=13&descAlignY=48&fontColor=ffffff&descColor=f0f9ff&animation=fadeIn&v=14" width="100%" style="display: block; border-radius: 12px;" />
+  <h1>Hi, I am pantr1x 👋</h1>
+  <p><b>AI Specialist • Web Developer • Homelab Architect</b></p>
 
 </div>
 
 I am a 16-year-old electronics student at SOŠ Liptovský Hrádok who is deeply passionate about modern technology, building web applications, and exploring artificial intelligence. When I'm not studying circuits or coding, I love bringing creative ideas to life through 3D printing, managing my own self-hosted infrastructure, and playing competitive matches of Counter-Strike 2.
 
 ### What i love to do:
-**- AI & Automation:** LLM integration, prompt engineering, AI-powered workflows, and automation.  
-**- Web Development:** Building modern, fast, responsive, and interactive web applications.  
-**- Infrastructure:** Running self-hosted services, bare-metal infrastructure, servers, and custom environments.  
-**- Hobbies & Interests:** Bringing creative ideas to life through 3D printing and playing competitive CS2.  
+- **AI & Automation:** LLM integration, prompt engineering, AI-powered workflows, and automation.  
+- **Web Development:** Building modern, fast, responsive, and interactive web applications.  
+- **Infrastructure:** Running self-hosted services, bare-metal infrastructure, servers, and custom environments.  
+- **Hobbies & Interests:** Bringing creative ideas to life through 3D printing and playing competitive CS2.  
+
+---
+
+### 📊 Skills & Proficiency
+
+**Web Development** (95%)  
+`███████████████████░` 95%
+
+**AI & Automation** (73%)  
+`█████████████░░░░░░░` 73%
+
+**3D Tlač** (100%)  
+`████████████████████` 100%
+
+**Hosting & Infrastructure** (27%)  
+`██████░░░░░░░░░░░░░░` 27%
 
 ---
 
