@@ -1,23 +1,21 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=180&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=42&fontAlignY=35&animation=fadeIn" width="100%" style="display: block; position: relative; z-index: 2;" />
-  
-  <img src="360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="100%" style="display: block; margin-top: -65px; border-radius: 0 0 10px 10px; position: relative; z-index: 1;" alt="Server Rack" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=130&section=header&text=Hi,%20I%20am%20pantr1x&fontSize=42&fontAlignY=40&animation=fadeIn" width="100%"/><img src="360_F_298559228_qAu46P4ahX5oneA6pNIkATQhXIXmoRRU.jpg" width="100%" alt="Server Rack" />
 
-  <br><br>
+<br><br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=550&lines=AI+Specialist;Web+Developer;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
+</a>
 
-  <br><br>
+<br><br>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/🤖_AI_Specialist-8A2BE2?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/💻_Web_Developer-0070F3?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/🖥️_Homelab_Architect-00C7B7?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/🌐_Self--Hosting-FF7A00?style=for-the-badge&logoColor=white" />
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_AI_Specialist-8A2BE2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/💻_Web_Developer-0070F3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🖥️_Homelab_Architect-00C7B7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐_Self--Hosting-FF7A00?style=for-the-badge&logoColor=white" />
+</p>
 
 </div>
 
@@ -58,13 +56,13 @@
 ### Activity Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pantr1x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pantr1x&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=technoficial75-beep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoficial75-beep&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pantr1x&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technoficial75-beep&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
